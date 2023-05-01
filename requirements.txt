@@ -9,7 +9,7 @@ cycler==0.10.0
 cymem==2.0.2
 fastai==1.0.57
 fastprogress==0.1.21
-Flask==1.1.1
+Flask==2.3.2
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.1
